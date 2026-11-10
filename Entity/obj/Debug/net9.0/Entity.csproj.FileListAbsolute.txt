@@ -1,0 +1,13 @@
+C:\Users\limit\OneDrive\Escritorio\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\Users\limit\OneDrive\Escritorio\Entity\bin\Debug\net9.0\Entity.dll
+C:\Users\limit\OneDrive\Escritorio\Entity\bin\Debug\net9.0\Entity.pdb
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\Entity.dll
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\Entity.pdb
+C:\Users\limit\OneDrive\Escritorio\Entity\obj\Debug\net9.0\ref\Entity.dll
